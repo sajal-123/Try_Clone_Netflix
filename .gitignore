@@ -1,0 +1,114 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Environment variables
+.env
+.env.*
+
+# Dependency directories
+bower_components/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm cache
+.npm/
+
+# Yarn cache
+.yarn/
+
+# Next.js specific
+.next/
+.next/
+
+# Nuxt.js specific
+.nuxt/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# SvelteKit specific
+.svelte-kit/
+
+# React Native specific
+*.expo/
+.expo/
+
+# Firebase
+firebase-debug.log
+
+# Build directory for Next.js and Nuxt.js
+.next/
+.nuxt/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Compiled output
+*.out
+*.pyc
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Production files
+*.prod.js
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.old
+
+# Build outputs
+/build/
+/dist/
+/out/
+
+# System-specific files
+*.DS_Store
+*.Thumbs.db
+*.Desktop.ini
+
+# MacOS specific files
+.AppleDouble
+.LSOverride
